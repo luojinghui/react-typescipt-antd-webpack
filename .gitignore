@@ -1,0 +1,8 @@
+.idea
+*.iml
+*.swap
+.DS_Store
+
+node_modules
+dist
+public/build
